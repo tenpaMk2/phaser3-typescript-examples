@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "scripts": {
+    "tile-callbacks": "cd src/tile-callbacks && npm install && npm run build && npm run start"
+  },
+  "author": "tenpaMk2",
+  "license": "MIT",
+  "keywords": [
+    "phaser3",
+    "phaser",
+    "webpack",
+    "typescript"
+  ],
+  "devDependencies": {}
+}
